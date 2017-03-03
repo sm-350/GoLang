@@ -5,4 +5,5 @@ git add .
 git commit -m "first commit"
 git push -u origin master
 git checkout -b sishi //Add new branch and checkout it(local)
-git push origin sishi //If there is no branch sishi,then build a new branch on reposity
+git push origin sishi //If there is no branch sishi,then build a new branch on repository
+git pull origin sishi //Get the file from remote repository
